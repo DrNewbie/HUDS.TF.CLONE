@@ -1,0 +1,10 @@
+:root {
+  --hudstf-default: #42A5F5;
+  --hudstf-default-darker: #0a6ebd;
+  
+  --hudstf-jumbotron: #42A5F5;
+  /* this can be a url if put as url() */
+  
+  --hudstf-btn-effect-1: 0 0 0 0.2rem rgba(33, 150, 243, 0.25);
+  --hudstf-btn-effect-2: 0 0 0 0.2rem rgba(33, 150, 243, 0.5);
+}
